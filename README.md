@@ -12,3 +12,10 @@ PadhLoop is where students come together to help each other out—think of it as
 
 **Responsive Design** : Fully optimized for mobile and desktop views with MUI styling.
 
+## Tech Stack
+**React** : JavaScript library for building user interfaces
+**Material-UI (MUI)** : Component library for custom styling and responsive design
+**RoboHash Avatars** : API for generating fun, unique avatars
+**React Icons** : Icon pack used for consistent and stylish icons throughout the app
+**React Router** : For managing in-app navigation
+
